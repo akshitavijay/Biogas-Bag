@@ -1,2 +1,2 @@
-# Biogas-Bag-1
+# Biogas-Bag
 Project for Aicte Vishwakarma Award.
